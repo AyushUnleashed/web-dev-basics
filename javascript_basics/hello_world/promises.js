@@ -4,4 +4,4 @@
 
 // promise takes a function with 2 params as input
 // the 2 params are resolve & reject
-let p = new Promise( (resolve, reject ) =>  )
+let p = new Promise( (resolve, reject ) => 
