@@ -1,3 +1,6 @@
+// great for anonymous functions
+//they redefine this keywords=
+
 // named function with multiple params
 function sum(a,b){
     return a+b;
