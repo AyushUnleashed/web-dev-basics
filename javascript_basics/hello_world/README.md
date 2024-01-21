@@ -6,4 +6,5 @@
 1. this keyword in arrow functions
 1. promises , then , catch , resolve, reject
 1. async/ await 
+1. try & catch
 1. fetch api

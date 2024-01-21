@@ -4,6 +4,10 @@
 // async await makes resolving promises cleaner
 // for the reject part of promise, we use try & catch to handle errors
 
+// aysnc await needs to be inside function
+
+// without await we just get a promise, with await we get resolved result of the promise
+
 let server = "Colab"
 server = "HF"
 
