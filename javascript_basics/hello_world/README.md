@@ -12,9 +12,9 @@
 
 # HTML
 
-- [] HTML template
-- [] connect to css & js file
-- [] Input Tag
-- [] Button
-- [] Event listners
-- [] Refreshing DOM
+- [ ] HTML template
+- [ ] connect to css & js file
+- [ ] Input Tag
+- [ ] Button
+- [ ] Event listners
+- [ ] Refreshing DOM
