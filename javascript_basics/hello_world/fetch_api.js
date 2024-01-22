@@ -5,8 +5,7 @@
 console.log("hello fetch api")
 
 
-
-// console.log()
+// fetch api using then 
 fetch("https://reqres.in/api/users/23").then( (response) => {
 
     if(response.ok){
@@ -48,3 +47,28 @@ class Avatar{
     }
 }
 
+
+// fetch using async/awai , we can pass options object too, after url
+
+// we need to pass json in body, so we do JSON.stringify({object})
+
+// Headers -> tell the type of content we are sending. 
+const myFunction = async () => {
+    response = await fetch(
+        "https://reqres.in/api/users",{
+
+        //options object
+        headers:{
+            'Content-Type': 'application/json'
+        },
+        method:'POST',
+        body: JSON.stringify({
+            name: 'user 1'
+        })
+        }
+)
+    data = await response.json()
+    console.log(data)
+}
+
+myFunction()
