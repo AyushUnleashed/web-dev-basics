@@ -8,6 +8,15 @@
 - [x] async/await
 - [x] try & catch
 - [x] fetch api
+- [x] map, filter, reduce
+- [x] spread operator
+- [x] import/export
+- [ ] require function
+- [ ] ES6 rest features
+- [ ] refrence vs value
+- [ ] short circuiting
+- [ ] == vs ===
+- [ ] callbacks
 
 
 # HTML
@@ -18,3 +27,6 @@
 - [ ] Button
 - [ ] Event listners
 - [ ] Refreshing DOM
+
+# React js
+- [] props
