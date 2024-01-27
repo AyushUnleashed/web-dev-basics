@@ -13,7 +13,7 @@
 - [x] import/export
 - [ ] require function
 - [ ] ES6 rest features
-- [ ] refrence vs value
+- [x] refrence vs value
 - [ ] short circuiting
 - [ ] == vs ===
 - [ ] callbacks
@@ -27,6 +27,11 @@
 - [ ] Button
 - [ ] Event listners
 - [ ] Refreshing DOM
+- [ ] passing anonymous functions 
 
 # React js
-- [] props
+- [ ] JSX
+- [ ] props
+- [ ] state
+- [ ] useState
+- [ ] useEffect
